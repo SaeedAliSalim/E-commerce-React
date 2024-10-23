@@ -1,10 +1,15 @@
 import React from 'react';
 import { NavDropdown } from 'react-bootstrap';
+import './NavBar.css'
+
+
+
+
 const NavTop = () => {
     return (
         <>
-            <div className='d-flex justify-align-align-content-around align-items-center py-2 bg-black text-white'>
-                <div>lhhjkhkjhj</div>
+            <div className='d-flex justify-content-around align-items-center py-2 bg-black text-white'>
+                <div></div>
                 <div className='d-flex '>
                     <p className='mb-0 me-3'>summer sale for all awim suit and free express delivery - OFF 50%!</p>
                     <a href="" className='fw-bold text-white'>shop now</a>

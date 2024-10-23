@@ -1,5 +1,5 @@
 
-import NavTop from './Component/NavTop';
+import NavTop from './Component/Navbar/NavTop';
 import NavBar from './Component/Navbar/Nav';
 
 function App() {

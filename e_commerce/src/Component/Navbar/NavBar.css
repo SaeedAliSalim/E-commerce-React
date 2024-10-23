@@ -1,0 +1,18 @@
+p{
+    text-transform: capitalize;
+}
+
+#Search-Input{
+    background-color: #F8F9FA;
+    border: none;
+    width: 15rem !important
+}
+
+#basic-addon1{
+    border: none;
+    
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    margin-right: 3rem;
+}
